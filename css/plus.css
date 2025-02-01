@@ -1,0 +1,15 @@
+* {
+    color: white;
+    font-family: "Liter", serif;
+    text-align: center;
+}
+body {   
+    background-color: rgb(54, 69, 79);
+}
+#title_text, #beta_text {
+    display: inline;
+    vertical-align: text-top;
+}
+#beta_text {
+    color: pink;
+}
