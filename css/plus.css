@@ -12,4 +12,8 @@ body {
 }
 #beta_text {
     color: pink;
+    text-shadow: 0px 3px black;
+}
+#title_text {
+    text-shadow: 0px 3px black;
 }
